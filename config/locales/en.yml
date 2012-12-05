@@ -1,0 +1,16 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+
+  meta_site_name: "Gift of Blood"
+  meta_punchline: "Save a life. Make a difference. Change the world."
+  meta_site_desc: "Register with your email, blood type and location to get instant info when somebody needs your blood donation."
+
+  signups_listing: "Listing signups"
+  signups_new_title: "New signup"
+  signups_new_text: "Sign-up to get notified when we go live!"
+  signups_thankyou_text: "Thank you for the signup, you should receive a confirmation email soon."
+
+  users_new_title: "New User"

@@ -1,0 +1,190 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "bla",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Unix",
+				"name": "bla"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/index.html",
+		"/home/jasmina/projects/bootcamp/index.html",
+		"/home/jasmina/projects/radnovrijeme/app/views/places/show.html.erb",
+		"/home/jasmina/projects/radnovrijeme/app/controllers/places_controller.rb",
+		"/home/jasmina/projects/radnovrijeme/app/models/type.rb",
+		"/home/jasmina/projects/radnovrijeme/db/migrate/20121004193853_create_places_types.rb",
+		"/home/jasmina/projects/radnovrijeme/db/migrate/20121003181112_create_places.rb",
+		"/home/jasmina/projects/radnovrijeme/db/migrate/20121003191138_create_comments.rb",
+		"/home/jasmina/projects/radnovrijeme/app/models/place.rb",
+		"/home/jasmina/projects/radnovrijeme/db/migrate/20121003193529_create_types.rb",
+		"/home/jasmina/projects/radnovrijeme/app/views/places/_form.html.erb",
+		"/home/jasmina/projects/radnovrijeme/app/views/places/new.html.erb",
+		"/home/jasmina/projects/radnovrijeme/config/locales/en.yml",
+		"/home/jasmina/projects/radnovrijeme/config/application.rb",
+		"/home/jasmina/projects/radnovrijeme/app/controllers/application_controller.rb",
+		"/home/jasmina/projects/radnovrijeme/app/views/types/_form.html.erb",
+		"/home/jasmina/projects/radnovrijeme/config/locales/bs.yml",
+		"/home/jasmina/projects/radnovrijeme/app/views/places/edit.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "bla",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/jasmina/projects/radnovrijeme/radnovrijeme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true
+}

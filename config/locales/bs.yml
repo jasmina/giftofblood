@@ -1,0 +1,32 @@
+bs:
+  hello_world: "Zdravo svijete"
+
+
+  meta_site_name: "Gift of Blood"
+  meta_punchline: "Save a life. Make a difference. Change the world."
+  meta_site_desc: "Registrujte se sa svojom email adresom, krvnom grupom i lokacijom za instant informacije kada neko treba vasu donaciju krvi" #TODO prevesti
+
+
+  signups_listing: "Lista emailova"
+  signups_new_title: "Novi email"
+  signups_new_text: "Prijavite se da vas obavijestimo kada pokrenemo kampanju."
+  signups_thankyou_text: "Hvala na registraciji, uskoro cete dobiti konfirmacijski email."
+
+
+  users_new_title: "Novi korisnik"
+
+  helpers:
+      submit:
+        create: "Dodaj %{model}"
+        update: "Promijeni %{model}"
+      activerecord:
+        models:
+          signups: email
+          users:   korisnik
+      label:
+        signup:
+          email: 'Email adresa'
+        user:
+          email: 'Email adresa'
+          password: 'Sifra'
+          password_confirmation: 'Sifra jos jednom'
